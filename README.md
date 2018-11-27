@@ -1,3 +1,3 @@
 # Kaggle
 
-Here are some pratical codes that I used for my Kaggle competition.
+Here are some practical codes that I used for my Kaggle competition.
